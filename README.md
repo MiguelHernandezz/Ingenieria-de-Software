@@ -47,6 +47,25 @@ The *Sistema de Gestión de Talleres Mecánicos* serves a central office in Madr
 
 ---
 
+<!-- syllabus:start -->
+## 📘 Syllabus · official UAH teaching guide
+
+> **Ingeniería del Software (780015)** · 6 ECTS · 2nd year · 2nd semester · contents from the 2025-26 teaching guide · [official subject page](https://www.uah.es/es/estudios/estudios-oficiales/grados/asignatura/Ingenieria-del-Software-780015/)
+
+| Unit | Hours | Topics |
+|---|---|---|
+| Introduction to software engineering | 8 h | Core concepts and history · CASE tools |
+| Requirements and analysis | 8 h | Requirements engineering · Analysis and requirements tracking |
+| Software design | 8 h | Design levels and principles · Object-oriented design with UML |
+| Software testing | 8 h | The testing process and test types · Reviews · Testing techniques |
+| Software maintenance | 8 h | Types of maintenance · Reverse engineering, re-engineering and restructuring |
+| Life-cycle processes | 8 h | Life-cycle models and methodologies · Configuration management · Professional ethics |
+| Software quality | 8 h | Product quality and process quality |
+| Lab | – | UML use cases, class, sequence, communication, component and deployment diagrams · Unit and integration testing · Software metrics and maintenance |
+<!-- syllabus:end -->
+
+---
+
 <div align="center">
 
 Miguel Hernández López · [GitHub](https://github.com/MiguelHernandezz) · [LinkedIn](https://www.linkedin.com/in/miguel-hernandez-lopez/)
